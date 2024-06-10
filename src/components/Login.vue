@@ -126,6 +126,6 @@ const linkedinLogin = () => {
 <style scoped>
 /* Custom radial gradient background */
 .radial-gradient {
-  background: radial-gradient(circle at top left, #F58FA9, #F9A968, #AB8FBF);
+  background: radial-gradient(circle at top left, #F05A8E, #F9A968, #643695);
 }
 </style>
